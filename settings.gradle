@@ -1,0 +1,2 @@
+rootProject.name='LiveStream Application'
+include ':app'
